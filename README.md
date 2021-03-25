@@ -1,2 +1,4 @@
 # emqx
 emqx
+
+use notes
